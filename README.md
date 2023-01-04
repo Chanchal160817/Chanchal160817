@@ -20,11 +20,14 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+## Snake eating my contribution graph
+![snake gif](https://github.com/Chanchal160817/Chanchal160817/blob/output/github-contribution-grid-snake.gif)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Chanchal160817&icon=1&color=12)](https://visitcount.itsvg.in)
 
 ## Snake eating my contribution graph
-![snake gif](https://github.com/Chanchal160817/Chanchal160817/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/Chanchal160817/Chanchal160817/blob/output/github-contribution-grid-snake.gif) -->
 
 <!-- https://github.com/Chanchal160817/Chanchal160817/blob/output/github-contribution-grid-snake.gif -->
 
