@@ -1,4 +1,6 @@
-# Hello World👋 I'm Chanchal
+### Hello World ,<img  alt="doremon" height="20px" width="20px" src="http://s.myniceprofile.com/myspacepic/2095/209578.gif">I'm Chanchal
+
+<img align="right" alt="coding" width="400" src="https://blog.commlabindia.com/wp-content/uploads/2019/07/animated-gifs-corporate-training.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb .<br>🌱 I’m currently learning  React Js.<br>👯 I’m looking to collaborate in JavaScript projects.<br>💬 Ask me about ... Anything<br>😄 Pronouns: She/her<br>⚡ Fun fact: I am lazy but smart.<br>✨ Eat ↔️ Code ↔️ Sleep↔️Repeat
@@ -15,13 +17,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanchal160817&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Chanchal251999)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/Chanchal251999)](https://github.com/Chanchal160817/github-twitter-card-embed)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ![snake gif](https://github.com/Chanchal160817/Chanchal160817/blob/output/github-contribution-grid-snake.gif)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Chanchal160817&icon=1&color=12)](https://visitcount.itsvg.in)
 
