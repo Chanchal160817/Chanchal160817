@@ -1,4 +1,4 @@
-# Hello World ,<img  alt="doremon" height="30px" width="40px" src="http://s.myniceprofile.com/myspacepic/2095/209578.gif">I'm Chanchal
+# Hello World ,<img  alt="doremon" height="70px" width="60px" src="http://s.myniceprofile.com/myspacepic/2095/209578.gif">I'm Chanchal
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
