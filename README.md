@@ -1,4 +1,4 @@
-<h1> Hello World ,<img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> I'm Chanchal </h1>
+<h1> Hello World , I'm Chanchal <img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> </h1>
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
