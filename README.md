@@ -1,6 +1,6 @@
-# Hello World ,<img  alt="doremon" height="70px" width="60px" src="http://s.myniceprofile.com/myspacepic/2095/209578.gif">I'm Chanchal
+<h1> Hello World ,<img alt="coding" height="40px" src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> I'm Chanchal </h1>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 # 💫 About Me:
 🔭 I’m currently working on Backend part for creating API's using Nodejs , Express , JavaScript and manipulate the data using MongoDb .<br>🌱 I’m currently learning  React Js.<br>👯 I’m looking to collaborate in JavaScript projects.<br>💬 Ask me about ... Anything<br>😄 Pronouns: She/her<br>⚡ Fun fact: I am lazy but smart.<br>✨ Eat ↔️ Code ↔️ Sleep↔️Repeat
