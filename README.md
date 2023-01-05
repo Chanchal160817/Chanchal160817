@@ -12,7 +12,7 @@
 <h2 align="left">Coding Plateform :</h2>
 <p align="left">
 <a href="https://leetcode.com/chanchalverma251999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/chanchalverma/" height="30" width="40" /></a>
- <a href="https://auth.geeksforgeeks.org/user/chanchalverma251999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="github" height="30" width="40" /></a> 
+ <a href="https://auth.geeksforgeeks.org/user/chanchalverma251999/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a> 
   
 </p>
 
