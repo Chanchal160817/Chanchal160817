@@ -34,7 +34,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Chanchal160817&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=https://twitter.com/Chanchal251999)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=Chanchal251999)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
